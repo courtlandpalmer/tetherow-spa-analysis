@@ -1,1 +1,1 @@
-# tetherow-spa-analysis
+Static site.
